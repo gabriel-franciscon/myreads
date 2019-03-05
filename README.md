@@ -1,6 +1,6 @@
 # MyReads
 
-##Intro
+## Intro
 This is a project developed during Udacity Advanced Web Front-End Nanodegree.
 
 "MyReads" aims to create a user-friendly interface for book control that the user wants to read, are reading or already Read.
@@ -8,7 +8,7 @@ This is a project developed during Udacity Advanced Web Front-End Nanodegree.
 ## Get Started
 * At a terminal, enter the project folder (example: `cd myreads`) and run the following commands:
 
-###Install
+### Install
 * Install all project dependencies with `npm install`
 
 ### Run the Application
